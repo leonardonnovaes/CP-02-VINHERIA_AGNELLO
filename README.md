@@ -26,4 +26,23 @@ O projeto consiste em um sistema baseado em Arduino UNO R3 com uma board, que in
 
 2. Certifique-se de que o DHT está na porta 13, os leds nas portas 9, 8, 7, o buzzer na porta 6, o ldr na porta A5 e o lcd nas portas 12, 11, 10, 5, 4, 3, 2.
 
-3. 
+3. Abra a Arduino IDE e insira o código, lembre se de revisar o código para garantir que não haja erros.
+
+4. Conecte sua placa Arduino em uma das portas do seu computador/laptop e inicie o código
+
+5. Abra o monitor serial para visualizar as mudanças na taxa de iluminação, temperatura e umidade.
+
+6. Observe o comportamento dos LEDS, buzzer e display conforme as mudanças ocorrem.
+
+# Links
+
+link da simulação Wokwi: https://wokwi.com/projects/395996491397078017
+
+# Integrantes
+
+Estevam Melo RM555124
+Gustavo Morais RM554972
+Leonardo Novaes RM554807
+Miguel Carmo RM557622
+
+
