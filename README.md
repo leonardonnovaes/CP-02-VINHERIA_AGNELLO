@@ -24,15 +24,17 @@ O projeto consiste em um sistema baseado em Arduino UNO R3 com uma board, que in
 1. Para dar vida ao projeto, inicie posicionando os componentes na protoboard. A montagem é livre mas caso queira seguir nossa configuração aqui está:
 ![Captura de tela 2024-04-24 193128](https://github.com/leonardonnovaes/CP-02-VINHERIA_AGNELLO/assets/148134209/c6d8b1d1-bdb9-4965-b180-4031e47ddb04)
 
-2. Certifique-se de que o DHT está na porta 13, os leds nas portas 9, 8, 7, o buzzer na porta 6, o ldr na porta A5 e o lcd nas portas 12, 11, 10, 5, 4, 3, 2.
+2. Certifique-se de que as bibliotecas DHT sensor library, LiquidCrystal, DHT22, AsyncLiquidCrystal e Adafruit LiquidCrystal estão baixadas.
 
-3. Abra a Arduino IDE e insira o código, lembre se de revisar o código para garantir que não haja erros.
+3. Certifique-se de que o DHT está na porta 13, os leds nas portas 9, 8, 7, o buzzer na porta 6, o ldr na porta A5 e o lcd nas portas 12, 11, 10, 5, 4, 3, 2.
 
-4. Conecte sua placa Arduino em uma das portas do seu computador/laptop e inicie o código
+4. Abra a Arduino IDE e insira o código, lembre se de revisar o código para garantir que não haja erros.
 
-5. Abra o monitor serial para visualizar as mudanças na taxa de iluminação, temperatura e umidade.
+5. Conecte sua placa Arduino em uma das portas do seu computador/laptop e inicie o código
 
-6. Observe o comportamento dos LEDS, buzzer e display conforme as mudanças ocorrem.
+6. Abra o monitor serial para visualizar as mudanças na taxa de iluminação, temperatura e umidade.
+
+7. Observe o comportamento dos LEDS, buzzer e display conforme as mudanças ocorrem.
 
 # Links
 
