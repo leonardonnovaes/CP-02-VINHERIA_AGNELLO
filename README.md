@@ -40,9 +40,9 @@ link da simulação Wokwi: https://wokwi.com/projects/395996491397078017
 
 # Integrantes
 
-Estevam Melo RM555124
-Gustavo Morais RM554972
-Leonardo Novaes RM554807
-Miguel Carmo RM557622
+- Estevam Melo RM555124 
+- Gustavo Morais RM554972
+- Leonardo Novaes RM554807
+- Miguel Carmo RM557622
 
 
